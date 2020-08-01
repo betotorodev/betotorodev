@@ -1,6 +1,6 @@
 ![MY GITHUB](https://i.imgur.com/NxIb9LT.png)
 # 😁 Hi! and welcome to my Github
-Here you can find the collecions of my personal projects and my learning path processes, feel free of review, fork, comment, watch, share, whatever you want...
+Here you can find the collections of my personal projects and my learning path processes, feel free of review, fork, comment, watch, share, whatever you want...
 
 ## 😅 My little moment of fame
 - [UI para todos](https://www.youtube.com/watch?v=GD8bY4AX_Lo)
